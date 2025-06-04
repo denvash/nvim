@@ -5,6 +5,7 @@
 --
 
 vim.opt.termguicolors = true
+vim.opt.clipboard = ''
 
 return {
   {
